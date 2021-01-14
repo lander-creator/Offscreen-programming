@@ -15,7 +15,7 @@ You make a choice between the different base stations via the control station. T
 * A 16GB or larger microSD card.
 
 ### Robot
-* the robot is now simulated via xojo and an arduino nano IoT with LEDs
+* the robot is now simulated via xojo and an arduino nano IoT with LED's
 
 ## The fully developed and detailed project can be found in the wiki.
 [Offscreen-programming Wiki](https://github.com/lander-creator/Offscreen-programming/wiki)
